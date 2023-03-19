@@ -1,3 +1,14 @@
+# TODO LIST
+x 1. home page
+x 2. shop page
+x 3. about us page
+x 4. contact page
+x 5. add styles
+x 6. get product data from API
+x 7. add search
+x 8. add filters
+x 9. add breadcrumbs and etc
+
 # AngularShop
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
