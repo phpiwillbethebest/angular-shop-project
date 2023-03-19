@@ -1,0 +1,69 @@
+.header {
+  width: 1490px;
+  height: 46px;
+  margin: 57px auto 0 auto;
+  display: flex;
+}
+
+/*---MENU---*/
+
+.header-menu, .menu-list {
+  height: 100%;
+  width: 100%;
+}
+
+.menu-list {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  list-style: none;
+}
+
+.menu-item {
+  margin-right: 68px;
+
+  font-family: 'Work Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.menu-item:last-child {
+  margin-right: 0;
+}
+
+.menu-link, .menu-link:hover {
+  text-decoration: none;
+
+  background: linear-gradient(90deg, #2AF598 0%, #009EFD 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: #fff;
+  transition: color 0.25s ease-in-out;
+}
+
+.menu-link:hover, .active-page {
+  color: transparent;
+}
+
+/*---BASKET---*/
+
+.basket {
+  height: 100%;
+  width: 41px;
+  margin-left: -41px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.basket-ico {
+  height: 37px;
+  width: 32px;
+  cursor: pointer;
+}
+
+

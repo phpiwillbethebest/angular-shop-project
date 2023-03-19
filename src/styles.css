@@ -1,1 +1,15 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;700&display=swap');
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-y: scroll;
+  background: linear-gradient(145deg, rgba(173,177,186,1) 0%, rgba(40,52,68,1) 100%);
+}
+
+
