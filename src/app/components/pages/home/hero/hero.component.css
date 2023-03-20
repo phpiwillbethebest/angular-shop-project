@@ -15,6 +15,7 @@
 .hero-title {
   margin-top: 185px;
 
+
   font-family: 'Work Sans', sans-serif;
   font-style: normal;
   font-weight: 700;
@@ -22,6 +23,8 @@
   line-height: 96px;
   color: #fff;
   text-align: center;
+
+
 
   margin-bottom: 24px;
 }

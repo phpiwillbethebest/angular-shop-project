@@ -10,6 +10,10 @@ import { ShopComponent } from './components/pages/shop/shop.component';
 import { AboutUsComponent } from './components/pages/about-us/about-us.component';
 import { ContactComponent } from './components/pages/contact/contact.component';
 import { HeroComponent } from './components/pages/home/hero/hero.component';
+import { PerksComponent } from './components/pages/home/perks/perks.component';
+import { BestSellsComponent } from './components/pages/home/best-sells/best-sells.component';
+import { InteriorGalleryComponent } from './components/pages/home/interior-gallery/interior-gallery.component';
+import { HowToCareComponent } from './components/pages/home/how-to-care/how-to-care.component';
 
 @NgModule({
   declarations: [
@@ -21,6 +25,10 @@ import { HeroComponent } from './components/pages/home/hero/hero.component';
     AboutUsComponent,
     ContactComponent,
     HeroComponent,
+    PerksComponent,
+    BestSellsComponent,
+    InteriorGalleryComponent,
+    HowToCareComponent,
   ],
   imports: [
     BrowserModule,

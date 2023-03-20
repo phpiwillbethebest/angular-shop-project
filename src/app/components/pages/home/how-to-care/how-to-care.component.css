@@ -1,0 +1,75 @@
+.how-to-care-wrap {
+  height: 775px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.title-undertext-wrap {
+  margin-bottom: 82px;
+}
+
+.how-to-care-title {
+  font-family: 'Work Sans', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 64px;
+  line-height: 75px;
+  color: #081323;
+
+  margin-bottom: 28px;
+}
+
+.how-to-care-undertext {
+  font-family: 'Work Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 28px;
+  color: #4F4F4F;
+}
+
+.care-list-wrap {
+  width: 585px;
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+}
+
+.care-item {
+  display: flex;
+}
+
+.care-item-ico-wrap {
+  margin-right: 24px;
+}
+
+.care-item-ico {
+  width: 68px;
+  height: 68px;
+}
+
+.care-item-text-wrap {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.care-item-title {
+  font-family: 'Work Sans', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38px;
+  color: #000000;
+}
+
+.care-item-description {
+  font-family: 'Work Sans', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 23px;
+  color: #4F4F4F;
+}

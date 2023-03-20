@@ -1,13 +1,13 @@
 # TODO LIST
-x 1. home page
-x 2. shop page
-x 3. about us page
-x 4. contact page
-x 5. add styles
-x 6. get product data from API
-x 7. add search
-x 8. add filters
-x 9. add breadcrumbs and etc
+1. o home page (roughly styled, no css optimization)
+2. x shop page 
+3. x about us page
+4. x contact page
+5. x add styles
+6. x get product data from API
+7. x add search
+8. x add filters
+9. x add breadcrumbs and etc
 
 # AngularShop
 
